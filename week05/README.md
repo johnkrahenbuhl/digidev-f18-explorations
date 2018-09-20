@@ -14,3 +14,4 @@
 ![Landzo 7 In LCD Screen](https://images-na.ssl-images-amazon.com/images/I/41ExtMMYuUL._AC_US436_FMwebp_QL65_.jpg)
 </br>
 
+*Note: Thanks to @zachpino for mentioning Git Markdown!*
