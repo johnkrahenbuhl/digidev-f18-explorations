@@ -1,7 +1,7 @@
 <h1>Week 05: Arduino LCD & IR - Bonus Raspberry Pi 7' LCD w Cap Touch
 <h2>Fall 2018 IIT Institute of Design Introductory Course to Arduino/Raspberry Pi and Development for Wearable Devices
 
-<h4>Explorations and Coursework by John Krahenbuhl (Fall 2018)</h2>
+<h4>Explorations and Coursework by John Krahenbuhl </br></h2>
 
 <h2>Arduino</h2> 
 
