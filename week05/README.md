@@ -24,7 +24,11 @@ hdmi_cvt 800 480 60 6 0 0 0
 hdmi_drive=1
 ```
 </br>
-Then reboot your Pi using `sudo reboot`. When the Pi reboots, your screen should be working.</br></br>
+Then reboot your Pi using 
+`/boot/config.txt`. </br>
+
+When the Pi reboots, your screen should be working.</br></br>
+
 **Touchscreen Keyboard**</br></br>
 ![Matchbox Keyboard](http://www.raspberry-pi-geek.com/var/rpi/storage/images/archive/2015/14/testing-the-new-raspberry-pi-touchscreen-display/figure-4/21088-1-eng-US/Figure-4_large.png)</br></br>
 I installed the *Matchbox Keyboard* using the following:</br>
