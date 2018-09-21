@@ -24,7 +24,7 @@ hdmi_cvt 800 480 60 6 0 0 0
 hdmi_drive=1
 ```
 
-Then reboot your Pi  
+Then reboot your Pi:  
 ```
 
 sudo reboot
