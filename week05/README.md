@@ -23,8 +23,13 @@ hdmi_cvt 800 480 60 6 0 0 0
 #Resolves pink line with on the left for rpi3 with Jessie.
 hdmi_drive=1
 ```
-</br>
-Then reboot your Pi using `sudo reboot`. </br>
+
+Then reboot your Pi  
+```
+
+sudo reboot
+
+```
 
 When the Pi reboots, your screen should be working.</br></br>
 
