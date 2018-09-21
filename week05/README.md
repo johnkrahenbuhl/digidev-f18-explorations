@@ -1,4 +1,4 @@
-<h1>Week 05: Arduino LCD & IR - Bonus Raspberry Pi 7' LCD w Cap Touch
+<h1>Week 05: Arduino LCD & IR - Bonus Raspberry Pi 7' LCD with Capacitive Touch Screen
 <h4>Fall 2018 IIT Institute of Design Introductory Course to Arduino/Raspberry Pi and Development for Wearable Devices
 
 <h6>Explorations and Coursework by John Krahenbuhl </br></br></h2>
