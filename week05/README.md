@@ -24,8 +24,7 @@ hdmi_cvt 800 480 60 6 0 0 0
 hdmi_drive=1
 ```
 </br>
-Then reboot your Pi using 
-`/boot/config.txt`. </br>
+Then reboot your Pi using `sudo reboot`. </br>
 
 When the Pi reboots, your screen should be working.</br></br>
 
