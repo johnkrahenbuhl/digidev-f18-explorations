@@ -3,13 +3,13 @@
 
 <h6>Explorations and Coursework by John Krahenbuhl </br></br></h2>
 
-<h2>Arduino</h2> 
+<h2>ARDUINO</h2> 
 </br>
 
-<h2>Raspberry Pi 3</h2>
+<h2>RASPBERRY PI 3 B</h2>
 
 
-[Landzo 7 Inch LCD Screen - HDMI - w USB Cap Touch!](https://www.amazon.com/LANDZO-Touch-Screen-Raspberry-Display/dp/B01ID5BQTC/ref=sr_1_1?ie=UTF8&qid=1537481301&sr=8-1&keywords=landzo+7+inch+screen)
+[LANDZO 7 INCH LCD SCREEN: HDMI WITH USB CAPACITIVE TOUCH](https://www.amazon.com/LANDZO-Touch-Screen-Raspberry-Display/dp/B01ID5BQTC/ref=sr_1_1?ie=UTF8&qid=1537481301&sr=8-1&keywords=landzo+7+inch+screen)
 </br>
 ![Landzo 7 In LCD Screen](https://images-na.ssl-images-amazon.com/images/I/41ExtMMYuUL._AC_US436_FMwebp_QL65_.jpg)
 </br>
@@ -33,7 +33,7 @@ sudo reboot
 
 When the Pi reboots, your screen should be working.</br></br>
 
-**Touchscreen Keyboard**</br></br>
+**ADDING A TOUCHSCREEN KEYBOARD**</br></br>
 ![Matchbox Keyboard](http://www.raspberry-pi-geek.com/var/rpi/storage/images/archive/2015/14/testing-the-new-raspberry-pi-touchscreen-display/figure-4/21088-1-eng-US/Figure-4_large.png)</br></br>
 I installed the *Matchbox Keyboard* using the following:</br>
 [ModMyPi Matchbox Keyboard Tutorial](https://www.modmypi.com/blog/matchbox-keyboard-raspberry-pi-touchscreen-keyboard)</br>
