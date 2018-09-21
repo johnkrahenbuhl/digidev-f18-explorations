@@ -31,7 +31,7 @@ sudo reboot
 
 ```
 
-When the Pi reboots, your screen should be working.</br></br>
+When the Pi reboots, your screen should be working.</br></br></br>
 
 **ADDING A TOUCHSCREEN KEYBOARD**</br></br>
 ![Matchbox Keyboard](https://mcuoneclipse.files.wordpress.com/2015/12/virtual-keyboard.png)</br></br>
