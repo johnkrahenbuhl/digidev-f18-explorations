@@ -34,7 +34,7 @@ sudo reboot
 When the Pi reboots, your screen should be working.</br></br>
 
 **ADDING A TOUCHSCREEN KEYBOARD**</br></br>
-![Matchbox Keyboard](http://www.raspberry-pi-geek.com/var/rpi/storage/images/archive/2015/14/testing-the-new-raspberry-pi-touchscreen-display/figure-4/21088-1-eng-US/Figure-4_large.png)</br></br>
+![Matchbox Keyboard](https://mcuoneclipse.files.wordpress.com/2015/12/virtual-keyboard.png)</br></br>
 I installed the *Matchbox Keyboard* using the following:</br>
 [ModMyPi Matchbox Keyboard Tutorial](https://www.modmypi.com/blog/matchbox-keyboard-raspberry-pi-touchscreen-keyboard)</br>
 
